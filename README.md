@@ -117,11 +117,11 @@ Combo __Bold & *Italic*__
 ```
 
 # Images
-[alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/220px-SNice.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/220px-SNice.svg.png)
 
 *I dont have an image to display but it would show instead of 'alt txt'*
 ```
-[alt text](imageURL)
+![alt text](imageURL)
 ```
 
 # Tables
